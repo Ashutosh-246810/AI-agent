@@ -1,4 +1,6 @@
-AI - AGENT
+# AI-AGENT
+
+AI-AGENT is a simple voice-activated desktop assistant built using Python. It can recognize voice commands and perform basic tasks such as opening websites, searching information, playing music, telling the current time, and launching desktop applications.
 
 ## Features
 
